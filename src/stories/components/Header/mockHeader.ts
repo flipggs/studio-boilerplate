@@ -12,15 +12,6 @@ export const menuItems = [
     }
   },
   {
-    id: '2',
-    redirectLink: '/form',
-    title: 'Formulário de coisa',
-    icon: {
-      redirectLink: '/form',
-      icon: House
-    }
-  },
-  {
     id: '3',
     redirectLink: '/static-page',
     title: 'Página estática',
